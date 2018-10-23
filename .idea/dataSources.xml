@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rails vim: production" uuid="2d96b1a1-8b17-4520-80ba-a0ccafdd8fe9">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:courseselect_developement</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails vim: test" uuid="a9f26736-e78a-471e-9151-368f3c5e3b98">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:courseselect_test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails vim: development" uuid="00c99094-6801-4c9f-ad48-181700fbd642">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:courseselect_development</jdbc-url>
+    </data-source>
+  </component>
+</project>
